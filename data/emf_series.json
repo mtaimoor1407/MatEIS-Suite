@@ -1,0 +1,338 @@
+[
+ {
+  "name": "Gold",
+  "half_reaction": "Au³⁺ + 3e⁻ → Au",
+  "potential_v": 1.42,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Platinum",
+  "half_reaction": "Pt²⁺ + 2e⁻ → Pt",
+  "potential_v": 1.2,
+  "series": "standard",
+  "source": "CRC / Callister",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Palladium",
+  "half_reaction": "Pd²⁺ + 2e⁻ → Pd",
+  "potential_v": 0.951,
+  "series": "standard",
+  "source": "CRC Handbook",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Silver",
+  "half_reaction": "Ag⁺ + e⁻ → Ag",
+  "potential_v": 0.8,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Copper",
+  "half_reaction": "Cu²⁺ + 2e⁻ → Cu",
+  "potential_v": 0.34,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Hydrogen (reference)",
+  "half_reaction": "2H⁺ + 2e⁻ → H₂",
+  "potential_v": 0.0,
+  "series": "standard",
+  "source": "Definition of SHE",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Lead",
+  "half_reaction": "Pb²⁺ + 2e⁻ → Pb",
+  "potential_v": -0.126,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Tin",
+  "half_reaction": "Sn²⁺ + 2e⁻ → Sn",
+  "potential_v": -0.136,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Nickel",
+  "half_reaction": "Ni²⁺ + 2e⁻ → Ni",
+  "potential_v": -0.25,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Cobalt",
+  "half_reaction": "Co²⁺ + 2e⁻ → Co",
+  "potential_v": -0.277,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Cadmium",
+  "half_reaction": "Cd²⁺ + 2e⁻ → Cd",
+  "potential_v": -0.403,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Iron",
+  "half_reaction": "Fe²⁺ + 2e⁻ → Fe",
+  "potential_v": -0.44,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Chromium",
+  "half_reaction": "Cr³⁺ + 3e⁻ → Cr",
+  "potential_v": -0.744,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Zinc",
+  "half_reaction": "Zn²⁺ + 2e⁻ → Zn",
+  "potential_v": -0.763,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Manganese",
+  "half_reaction": "Mn²⁺ + 2e⁻ → Mn",
+  "potential_v": -1.185,
+  "series": "standard",
+  "source": "CRC Handbook",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Titanium",
+  "half_reaction": "Ti²⁺ + 2e⁻ → Ti",
+  "potential_v": -1.63,
+  "series": "standard",
+  "source": "CRC Handbook",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Aluminum",
+  "half_reaction": "Al³⁺ + 3e⁻ → Al",
+  "potential_v": -1.662,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Magnesium",
+  "half_reaction": "Mg²⁺ + 2e⁻ → Mg",
+  "potential_v": -2.363,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Sodium",
+  "half_reaction": "Na⁺ + e⁻ → Na",
+  "potential_v": -2.714,
+  "series": "standard",
+  "source": "Callister Table 17.1",
+  "notes": "Standard electrode potential vs SHE, 25 °C, unit activity."
+ },
+ {
+  "name": "Platinum",
+  "half_reaction": "",
+  "potential_v": 0.25,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Gold",
+  "half_reaction": "",
+  "potential_v": 0.2,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Graphite",
+  "half_reaction": "",
+  "potential_v": 0.18,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Titanium (commercially pure)",
+  "half_reaction": "",
+  "potential_v": 0.0,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Silver",
+  "half_reaction": "",
+  "potential_v": -0.03,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Stainless steel 316 (passive)",
+  "half_reaction": "",
+  "potential_v": -0.05,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Stainless steel 304 (passive)",
+  "half_reaction": "",
+  "potential_v": -0.08,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Nickel 200 (passive)",
+  "half_reaction": "",
+  "potential_v": -0.1,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Monel 400",
+  "half_reaction": "",
+  "potential_v": -0.14,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Copper–nickel 70/30",
+  "half_reaction": "",
+  "potential_v": -0.25,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Bronze",
+  "half_reaction": "",
+  "potential_v": -0.31,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Copper",
+  "half_reaction": "",
+  "potential_v": -0.34,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Brass (admiralty)",
+  "half_reaction": "",
+  "potential_v": -0.36,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Tin",
+  "half_reaction": "",
+  "potential_v": -0.42,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Lead",
+  "half_reaction": "",
+  "potential_v": -0.5,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Stainless steel 304 (active)",
+  "half_reaction": "",
+  "potential_v": -0.52,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Cast iron",
+  "half_reaction": "",
+  "potential_v": -0.62,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Carbon / mild steel",
+  "half_reaction": "",
+  "potential_v": -0.65,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Aluminum 2024",
+  "half_reaction": "",
+  "potential_v": -0.69,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Cadmium",
+  "half_reaction": "",
+  "potential_v": -0.73,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Aluminum (1100 / 5052 / 6061)",
+  "half_reaction": "",
+  "potential_v": -0.8,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Zinc",
+  "half_reaction": "",
+  "potential_v": -1.03,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ },
+ {
+  "name": "Magnesium alloys",
+  "half_reaction": "",
+  "potential_v": -1.6,
+  "series": "seawater",
+  "source": "Typical mid-range of ASTM G82-type galvanic series in flowing seawater (order follows Fontana)",
+  "notes": "Volts vs SCE; real values scatter by ±0.05–0.15 V with flow, temperature and surface condition."
+ }
+]
