@@ -1,9 +1,11 @@
 # MatEIS – Materials Engineering Interactive Suite
 
-**Course:** CSC-214 MATLAB and Python – CEP / OEL · **Instructor:** Dr.-Ing. Waseem Amin
-**Programme:** B.Sc. Metallurgy & Materials Engineering, University of the Punjab, Lahore
-**Team:** _add names, registration numbers and sessions in `config.py` and here_
-**Live demo:** _paste your deployed link here_
+## Project context
+
+The academic details below describe the project brief, rather than my degree affiliation. I study BS Computer Science at COMSATS University Islamabad, Lahore Campus.
+
+**Course brief:** CSC-214 MATLAB and Python – CEP / OEL · **Instructor named in the brief:** Dr.-Ing. Waseem Amin
+**Programme named in the brief:** B.Sc. Metallurgy & Materials Engineering, University of the Punjab, Lahore
 
 MatEIS is one web application that implements **all three** project themes, each with its own module:
 
@@ -28,7 +30,7 @@ MatEIS is one web application that implements **all three** project themes, each
 | Numerics | numpy, pandas | Data handling and calculations |
 | Storage | **SQLite** (`sqlite3`), seeded from JSON | Materials, EMF series, history |
 | Tests | pytest, pytest-asyncio, NiceGUI user simulation | 460+ tests incl. boundary values and UI flows |
-| Quality | ruff, GitHub Actions CI | Clean, reviewed code |
+| Quality | ruff, GitHub Actions CI | Linting and CI configuration |
 | Hosting | Docker on Render or Hugging Face Spaces | See `docs/DEPLOYMENT.md` |
 
 ## Install and run
@@ -36,8 +38,8 @@ MatEIS is one web application that implements **all three** project themes, each
 Requires Python 3.11 or newer.
 
 ```bash
-git clone https://github.com/<your-user>/MatEIS.git
-cd MatEIS
+git clone https://github.com/mtaimoor1407/MatEIS-Suite.git
+cd MatEIS-Suite
 python -m venv .venv
 .venv\Scripts\activate            # Windows  (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
